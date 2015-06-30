@@ -1,0 +1,3 @@
+[submodule "empty_repo"]
+	path = empty_repo
+	url = https://github.com/mmasaki/empty_repo.git
